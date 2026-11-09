@@ -1,0 +1,12 @@
+﻿# Raw source files & large local backups
+_raw_source_archive/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary logs & caches
+*.tmp
+*.log
+.system_generated/
